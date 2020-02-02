@@ -14,11 +14,10 @@ To write an unordered list
 - this way you are writing the list 
 
 
-For mentioning people and teams: @maisjamil1
-
+**This text is bold because i put a couple of stars before and after the text**
 
 If you want to use an emoji :+1: 
 you have to put the emoji code between two semicolon 
 
 
->You can Quote  text with like this
+>You can Quote  text with like this by using (>) before the quoted text

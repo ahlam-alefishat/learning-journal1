@@ -9,13 +9,12 @@ Heading tips:
 
 
 To write an unordered list
-- you just have to use - 
+- you just have to use (-) 
 - before any item of your list 
 - this way you are writing the list 
 
 
-For mentioning people and teams:
-@maisjamil1
+For mentioning people and teams: @maisjamil1
 
 
 If you want to use an emoji :+1: 

@@ -33,5 +33,26 @@ using your text editor most of the time.
 of extension will ensure that you have the ability to add functionality
 as you need it. because as you become more familiar with coding, you may want to add more
 features to your text editor .
+
+
+####Every computer will come with its own text editor which you can use to build your web pages . On Mac
+computers, the text editor that comes with your computer is called,
+“Text Edit.” On Windows computers, the text editor that comes with
+your computer is called, “Notepad.”
+
+ ####Or insted of using the computer text editor you might install a text editor
  
+ Examples for a third party options text editors:
+1. Notepad++.
+2. TextWrangler / BB edit.
+3. Visual Studio Code.
+4. Atom.
+5. Brackets.
+6. Sublime Text.
+
+
+###The Difference Between Text
+Editors and IDEs:
+## *Text editor* :text editor edits text,it also manages text, and manages files
+## *An IDE* :(Integrated Development Environment) is really a suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package.
  

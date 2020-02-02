@@ -6,8 +6,8 @@ Heading tips:
 ## Tow hashtags for the second largest heading (before the heading)
 ###### Six hashtags for the smallest heading (before the heading)
 
-To write an unordered list :
--you just have to use (-) 
+To write an unordered list
+-you just have to use - 
 -before any item of your list 
 -this way you are writing the list 
 

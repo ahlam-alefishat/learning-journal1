@@ -7,12 +7,11 @@ Heading tips:
 ###### Six hashtags for the smallest heading (before the heading)
 
 To write an unordered list
--you just have to use - 
--before any item of your list 
--this way you are writing the list 
+*you just have to use - 
+*before any item of your list 
+*this way you are writing the list 
 
 For mentioning people and teams:
-you can mention your team by adding the @ sign + their username such as
 @maisjamil1
 
 

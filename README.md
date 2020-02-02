@@ -1,5 +1,5 @@
 # learning-journal
-This repo is a summary of the mark down
+This repo is a short summary of the mark down
 
 Heading tips:
 # One hashtag for the largest heading (before the heading)

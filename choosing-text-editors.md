@@ -56,3 +56,6 @@ Editors and IDEs:
 ## *Text editor* :text editor edits text,it also manages text, and manages files
 ## *An IDE* :(Integrated Development Environment) is really a suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package.
  
+ 
+ 
+ 

@@ -16,7 +16,7 @@ To write an unordered list
 
 **This text is bold because i put a couple of stars before and after the text**
 
-If you want to use an emoji :+1: 
+If you want to use an emoji   :+1:   
 you have to put the emoji code between two semicolon 
 
 

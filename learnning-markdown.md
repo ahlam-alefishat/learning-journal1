@@ -68,6 +68,20 @@ function fancyAlert(arg) {
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
+3. ### Tables:you can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:
+for example :
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+4. ### Strikethrough
+Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
+
+
+
+
 
 
 

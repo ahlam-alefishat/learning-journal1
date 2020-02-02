@@ -13,7 +13,7 @@ To write an unordered list :
 
 For mentioning people and teams:
 you can mention your team by adding the @ sign + their username such as
-##@maisjamil1
+@maisjamil1
 
 
 If you want to use an emoji :+1: 

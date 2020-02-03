@@ -1,5 +1,18 @@
 # learning-journal
-This repo is a short summary of the mark down Done by :Ahlam
+# Welcome to my learning journal 
+##  This journal has the new things i've learned so far from the level 102 :
+
+
+### Table of content
+Page | Topic
+---- | -----
+First Page | Home page
+Second Page | Short summary of markdown syntax
+Third Page | Mastering markdown 
+Fourth Page | Choosing text editor
+
+
+#### This repo is a short summary of the mark down Done by :Ahlam
 
 Heading tips:
 # One hashtag for the largest heading (before the heading)
